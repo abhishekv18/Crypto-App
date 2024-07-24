@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crypto-App/static/css/main.df40aa89.css",
+    "main.js": "/Crypto-App/static/js/main.be9312d7.js",
+    "static/media/btc (1).png": "/Crypto-App/static/media/btc (1).04101b0b163c035fa57e.png",
+    "static/media/WhatsApp Image 2024-05-23 at 20.54.06_3c0986d7.jpg": "/Crypto-App/static/media/WhatsApp Image 2024-05-23 at 20.54.06_3c0986d7.eefb090bb1cf2ffe720d.jpg",
+    "index.html": "/Crypto-App/index.html",
+    "main.df40aa89.css.map": "/Crypto-App/static/css/main.df40aa89.css.map",
+    "main.be9312d7.js.map": "/Crypto-App/static/js/main.be9312d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df40aa89.css",
+    "static/js/main.be9312d7.js"
+  ]
+}
